@@ -159,7 +159,7 @@ Unless it is the last round, all cards are returned to their respective decks an
 
 Winning
 =======
-The game is played in 8 rounds, though players may choose to play more or less rounds for a longer or shorter game.
+The game is over at the end of 8 rounds, though players may choose to play more or less rounds for a longer or shorter game.
 
 The player with the most victory points at the end of the last round wins! If two or more players are tied for the most VP, additional rounds must be played until a winner can be declared.
 
@@ -168,7 +168,5 @@ Credits
 Generals & Assassins is copyright (c) 2013 by Sean Crystal <seancrystal@gmail.com>
 
 Special thanks to:
-Josh Long
-Doug Hurst
-Brad Hurst
+Josh Long, Doug Hurst, Brad Hurst
 
