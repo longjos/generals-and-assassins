@@ -6,7 +6,13 @@ This is version 0.8 of the official game rules. This document was last updated 1
 
 Description
 ===========
-Generals & Assassins is a competitive card game for 2 to 4 players, using one standard deck (with jokers) for each player. It is a game of acquiring lands with wealth and defeating your opponents in battle to take their lands for yourself!
+Generals & Assassins is a competitive card game for 2 to 4 players, using one standard deck (with jokers) for each player. It is played in as a series of 8 rounds, in which players acquire Victory Points by using wealth to purchase Land and battling other players to take what is theirs!
+
+Requirements
+============
+* One standard deck (with jokers) for each player
+* Poker chips or other tokens for tracking hit points (50 per player)
+* A score sheet to keep running totals
 
 Terminology
 ===========
@@ -24,14 +30,9 @@ Hit Points (HP)
 Victory Points (VP)
   Used to determine the overall winner of the game.
 
-Requirements
-============
-* One standard deck (with jokers) for each player
-* Poker chips or other tokens for tracking hit points (50 per player)
-* A score sheet to keep running totals
-
 Objective
 =========
+To win the game, players must acquire the most Victory Points over a series of 8 rounds. Victory Points are acquired by obtaining Land, which can either be purchased with Money or conquered by defeating other players in battle. 
 
 Cards
 =====
@@ -92,11 +93,11 @@ On their turn, players must play one (and only one) of the following actions: At
   - Attacking
   
     + Players must play at least one General from their hand to attack an opponent. 
-    + They may add any number of Generals and Soldiers from their hand to increase their AP.
+    + They may add any number of Generals and Soldiers from their hand to increase their Attack Points.
 
   - Defending
   
-    + The player being attacked may play any Generals and Soldiers from his hand to increase his DP. 
+    + The player being attacked may play any Generals and Soldiers from his hand to increase his Defense Points. 
     + The defender is *NOT* required to play a General.
     + All Lands the defender has in play add two DP, regardless of their face value.
   
@@ -104,7 +105,7 @@ On their turn, players must play one (and only one) of the following actions: At
   
     + Players who are not the attacker or defender may assist either side with one General or Soldier from their hand, adding it to the total AP or DP, depending on which side they are assisting.
     + As an incentive to assist them, the attacker and defender may offer other players Lands they have played in exchange for their help.
-    + If Land is exchanged, transfer Land cards to the assisting players before the attack is resolved. If the defender transfers Land to another player, he does not receive the 2 DP bonus for that land. 
+    + If Land is exchanged, transfer Land cards to the assisting players before the attack is resolved. If the defender transfers Land to another player, he does not receive the 2 DP bonus for that Land. 
 
   - Resolution
 
@@ -117,8 +118,10 @@ On their turn, players must play one (and only one) of the following actions: At
 * Assassinate
 
   - Assassins must be played alone. They cannot participate in regular attacks or be combined with Generals or Soldiers. 
-  - Assassins may only be defended against by playing another Assassin. This nullifies the attack.
-  - If the defender played an Assassin to defend and the attacking player has a second Assassin in his hand, he may play it to renew the attack. The defending player may also play a second Assassin to nullify this second attack.
+  - Assassins may only be defended against by playing another Assassin, in which case the attack fails.
+  - Other players may not assist during assassinations.
+  - If the first attack failed and the attacking player has a second Assassin in his hand, he may immediately play it to attempt the assassination again. 
+  - The defending player may also play a second Assassin to stop this second attack.
   - If the assassination is successful, the defender must deduct 25 HP from his total for the round. 
 
 * Buy Land
@@ -150,7 +153,7 @@ The round can end in one of two ways:
 
 Scoring
 =======
-At the end of a round, each player sums the value of the Land cards in front of them. This sum is their VP total for the round. Each player adds this sum to their VP total for the game, unless their HP was reduced to 0, in which case the player does not gain any VP for the round. His VP go to the player that defeated him instead.
+At the end of a round, each player sums the value of the Land cards in front of them. This sum is their VP total for the round. Each player adds this sum to their VP total for the game, unless their HP was reduced to 0, in which case the player does not gain any VP for the round. Instead, his VP go to the player that defeated him.
 
 Unless it is the last round, all cards are returned to their respective decks and reshuffled. All players reset their HP to 50. The next round begins with the player who has the lowest VP total for the game.
 
