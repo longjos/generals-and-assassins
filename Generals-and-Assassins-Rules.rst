@@ -49,6 +49,7 @@ At the beginning of each round, players have 50 HP, regardless of the outcome of
 On their turn, players must play one (and only one) of the following actions: Attack, Assassinate, Buy Land, Heal or Discard.
 
 * Attack
+
   - Players must play at least one General from their hand to attack an opponent. They may add any number of Generals and Soldiers from their hand to increase the DP of the attack. The combined value of all Generals and Soldiers played by the attacker is the total DP inflicted on the defender, if he does not defend.
   - The defender may play any Generals and Soldiers from his hand to reduce the DP inflicted upon him. 
   - In addition, all Lands the Defender has in play subtract two from the attack's DP.
