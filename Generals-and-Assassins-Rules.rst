@@ -2,7 +2,7 @@
 Generals & Assassins Rules
 ==========================
 
-This is version 0.8 of the official game rules. This document was last updated 15 May 2013.
+This is version 0.8 of the official game rules. This document was last updated 16 May 2013.
 
 Description
 ===========
@@ -10,32 +10,64 @@ Generals & Assassins is a competitive card game for 2 to 4 players, using one st
 
 Terminology
 ===========
-These terms will be used throughout the rules:
+These terms and abbreviations will be used throughout the rules:
 
-* Damage Points (DP) - 
-* Hit Points (HP) - 
-* Victory Points (VP) - points earned in each round
+Attack Points (AP)
+  Used to determine the strength of an attack during an attack action.
+
+Defense Points (DP)
+  Used to determine the strength of a defense during an attack action.  
+
+Hit Points (HP)
+  Represents the health of a player during a round.
+
+Victory Points (VP)
+  Used to determine the winner of the game.
 
 Requirements
 ============
 * One standard deck (with jokers) for each player
-* 50 HP tokens per player
-* A score sheet to keep running totals for the game
+* Poker chips or other tokens for tracking hit points (50 per player)
+* A score sheet to keep running totals
 
 Objective
 =========
 
 Cards
 =====
-Cards have particular meanings based on suit and rank.
+Cards have the following values based on rank:
 
-* Aces are low, valued at one.
-* Spades, Ace - 10 are Land cards. They are worth their face value in VP. The cost their face value in Money to play.
-* Diamonds, Ace - 10 are Money cards. They are worth their face value. They may be used to purchase Land.
-* Clubs, Ace - 10 are Soldiers. They are worth their face value in DP. They may be used to increase the DP of an attack on an opponent or defend from an opponent's attack.
-* Hearts, Ace - 10 are Healing cards. They are worth their face value. They may be played to regain their face value in HP.
-* Face cards (Jack, Queen, King) are Generals, regardless of suit. Jacks are worth 10, Queens 11, and Kings 12 DP respectively. A player must play at least one General to attack another player.
-* Jokers are Assassins. They must be played alone. The are worth 25 DP.
+================ ==========
+Card             Value
+================ ==========
+Ace              1
+---------------- ----------
+2 - 10           Face value
+---------------- ----------
+Jack             10
+---------------- ----------
+Queen            11
+---------------- ----------
+King             12
+---------------- ----------
+Joker            25
+================ ==========
+
+Cards have a particular meaning based on suit/type:
+
+================ ==
+Court (J, Q, K)  Court cards are Generals. They are used during attack or defense. They cannot be used as Land, Money, Healing or Soldiers. Suit is ignored. 
+---------------- --
+Clubs            Clubs are Soldiers. They may be used during attack or defense.
+---------------- --
+Spades           Spades are Land. Land contributes to a player's VP at the end of the round. They also contribute 2 DP each during defense, regardless of their face value.
+---------------- --
+Diamonds         Diamonds are Money. Money is used to purchase Land.
+---------------- --
+Hearts           Hearts are Health. Health is used to regain HP. 
+---------------- --
+Jokers           Jokers are Assassins. They are used as a special attack called Assassinate.
+================ ==
 
 Setup
 =====
@@ -54,12 +86,16 @@ On their turn, players must play one (and only one) of the following actions: At
 * Attack
 
   - Players must play at least one General from their hand to attack an opponent. They may add any number of Generals and Soldiers from their hand to increase the DP of the attack. The combined value of all Generals and Soldiers played by the attacker is the total DP inflicted on the defender, if he does not defend.
-  - The defender may play any Generals and Soldiers from his hand to reduce the DP inflicted upon him. 
-  - In addition, all Lands the Defender has in play subtract two from the attack's DP.
-  - The defender is NOT required to play a General.
-  - The combined value of the Generals and Soldiers played by the defender, plus 2 DP for each Land he has in play, is subtracted from the attacker's DP and the result is the number of HP the defender loses.
+  - Defending
+    + The defender may play any Generals and Soldiers from his hand to reduce the DP inflicted upon him. 
+    + The defender is NOT required to play a General.
+    + In addition, all Lands the Defender has in play subtract two from the attack's DP.
+    + The combined value of the Generals and Soldiers played by the defender, plus 2 DP for each Land he has in play, is subtracted from the attacker's DP and the result is the number of HP the defender loses.
+  - Assisting
+    + Players who are not the attacker or defender may assist either side with one General or Soldier from their hand, adding it to the total DP for the side they are assisting.
+    + As an incentive to assist them, the attacker and defender may offer other players Lands they have played in exchange for their help.
   - All Generals and Soldiers involved in the attack and defence are discarded after the attack is resolved. All players must then draw back up to five cards.
-
+ 
 * Assassinate
 
   - Assassins must be played alone. They cannot participate in regular attacks or be combined with Generals or Soldiers. 
@@ -103,7 +139,10 @@ Winning
 
 Credits
 =======
-Generals & Assassins is copyright (c) 2013 by Sean Crystal <seancrystal@gmail.com>.
+Generals & Assassins is copyright (c) 2013 by Sean Crystal <seancrystal@gmail.com>
 
-Special thanks to: Josh Long, Doug Hurst and Brad Hurst.
+Special thanks to:
+Josh Long
+Doug Hurst
+Brad Hurst
 
